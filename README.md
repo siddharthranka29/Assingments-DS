@@ -11,13 +11,13 @@ Data Science is a multidisciplinary field that combines statistical techniques, 
 
 ➡️ Key components of Data Science include:-
 
-Data Analysis: Understanding trends and patterns in data.
+> Data Analysis: Understanding trends and patterns in data.
 
-Data Visualization: Presenting data insights visually for better comprehension.
+> Data Visualization: Presenting data insights visually for better comprehension.
 
-Predictive Modeling: Forecasting outcomes using machine learning models.
+> Predictive Modeling: Forecasting outcomes using machine learning models.
 
-Big Data Technologies: Handling large-scale datasets with tools like Hadoop and Spark.                                                                                                                                                                                                                                                            
+> Big Data Technologies: Handling large-scale datasets with tools like Hadoop and Spark.                                                                                                                                                                                                                                                            
 
 
 
@@ -30,10 +30,10 @@ Programming Language: Python
 
 Key Libraries:
 
-pandas and numpy for data manipulation and preprocessing.
+> pandas and numpy for data manipulation and preprocessing.
 
-matplotlib and seaborn for data visualization.
+> matplotlib and seaborn for data visualization.
 
-scikit-learn for implementing machine learning algorithms.
+> scikit-learn for implementing machine learning algorithms.
 
-xgboost and lightgbm for gradient boosting tasks.
+> xgboost and lightgbm for gradient boosting tasks.
