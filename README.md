@@ -23,7 +23,7 @@ Data Science is a multidisciplinary field that combines statistical techniques, 
 
 
 
-📦 Tools and Libraries
+ 🔨 Tools and Libraries
 The assignments in this repository leverage the following tools and libraries:
 
 Programming Language: Python
